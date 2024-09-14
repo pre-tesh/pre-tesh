@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Pritesh Rodge.
-- 👀 I’m interested in Competitive Programming , AI/ML , Frontend and Backend developement.
-- 🌱 I’m currently learning Python , Javascript ,C++ .
+- 👀 I’m interested in Robotics , CP , Electronics.
 - 💞️ Ready to collaborate on any open source project that excites me XD.
 - 📫 Reach me through Linkedin or any other social media platforms .
 - 😄 Pronouns: He/Him.
