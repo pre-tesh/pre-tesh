@@ -1,10 +1,25 @@
-- 👋 Hi, I’m Pritesh Rodge.
-- 👀 I’m interested in Robotics , Competitive Programming, Electronics.
--  Ready to collaborate on any open source project that excites me XD.
-- 📫 Reach me through Linkedin or any other social media platforms .
-- 😄 Pronouns: He/Him.
+👋 Hey there! I'm a college student passionate about systems that power everything behind the scenes — from kernels to autonomous drones.
 
+🛠️ I work with:
 
+    Linux Kernel Development (currently learning through the LFX Mentorship under Shuah Khan)
+
+    Embedded Systems & Robotics 
+
+    C, C++, and Python for systems programming and automation
+
+    Open Source contributions, selftests, and debugging
+
+💻 Languages: C/C++, Java, Python, Go, SQL, HTML/CSS
+🧰 Developer Tools: Git, Docker, Vim
+
+🌱 Currently exploring:
+
+    Kernel subsystems & driver development
+
+    Real-time systems and low-level OS internals
+
+Let’s connect through code — contributions, issues, or ideas are always welcome!
 <!---
 pre-tesh/pre-tesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
