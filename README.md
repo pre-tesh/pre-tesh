@@ -2,7 +2,7 @@
 
 🛠️ I work with:
 
-    Linux Kernel Development (currently learning through the LFX Mentorship under Shuah Khan)
+    Linux Kernel Development.
 
     Embedded Systems & Robotics 
 
